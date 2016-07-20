@@ -16,4 +16,9 @@ layout_spectrum: 0.8825863311067224
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccab122b-d847-4286-b5d6-f8ee9c61d96a.jpg
 name: Soul Meets Body
+navigation:
+  - id: 'http://www.soulmeetsbody.biz/about'
+    url: 'http://www.soulmeetsbody.biz/about'
+    name: About
+    type: external
 title: massage & bodywork
