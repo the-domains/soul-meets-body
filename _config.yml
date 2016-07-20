@@ -1,14 +1,19 @@
-layout_spectrum: 0.8825863311067224
 typography_spectrum: 0.20181860332377255
+content_rating:
+  adult: false
 color:
   brandStrength: 0.926601127255708
   lightness: 0.4725974511820823
   saturation: 0.146646331762895
   rhythmicContrast: 0.9944761658553034
   brandColors:
-    - '#F7F2B2'
-    - '#ADCF4F'
-    - '#84815B'
-    - '#4A1A2C'
-    - '#8E3557'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.8825863311067224
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccab122b-d847-4286-b5d6-f8ee9c61d96a.jpg
 name: Soul Meets Body
+title: massage & bodywork
