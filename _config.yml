@@ -33,4 +33,10 @@ navigation:
     url: 'http://www.soulmeetsbody.biz/Treatments'
     name: Treatments
     type: external
+  - id: >-
+      https://www.google.com/maps/place/3105+W+Jameson+St,+Seattle,+WA+98199/@47.659914,-122.397898,15z/data=!4m5!3m4!1s0x549015eb44f9be8f:0x81d4ece8bc998c9d!8m2!3d47.6598718!4d-122.39798?hl=en-US
+    url: >-
+      https://www.google.com/maps/place/3105+W+Jameson+St,+Seattle,+WA+98199/@47.659914,-122.397898,15z/data=!4m5!3m4!1s0x549015eb44f9be8f:0x81d4ece8bc998c9d!8m2!3d47.6598718!4d-122.39798?hl=en-US
+    name: Find us
+    type: external
 title: massage & bodywork
