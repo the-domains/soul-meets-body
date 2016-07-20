@@ -21,4 +21,8 @@ navigation:
     url: 'http://www.soulmeetsbody.biz/about'
     name: About
     type: external
+  - id: 'http://www.soulmeetsbody.biz/benefits'
+    url: 'http://www.soulmeetsbody.biz/benefits'
+    name: Benefits
+    type: external
 title: massage & bodywork
