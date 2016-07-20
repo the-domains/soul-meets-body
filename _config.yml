@@ -25,4 +25,8 @@ navigation:
     url: 'http://www.soulmeetsbody.biz/benefits'
     name: Benefits
     type: external
+  - id: 'http://www.soulmeetsbody.biz/for-the-athlete'
+    url: 'http://www.soulmeetsbody.biz/for-the-athlete'
+    name: For the athlete
+    type: external
 title: massage & bodywork
