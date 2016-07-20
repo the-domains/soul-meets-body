@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soul Meets Body]]></title>
+        <description><![CDATA[Soul Meets Body]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jul 2016 02:03:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The World's Most Beautiful Hotel Pool Views]]></title>
+            <description><![CDATA[<article><h1>The World's Most Beautiful Hotel Pool Views</h1><p>From an infinity pool on the African savannah to a rooftop number with a skyline shot of NYC, here are 18 of the sweetest hotel&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0e947140d59bed9fcf2eb93bbdd43d388790628.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/travel/nation/best-hotel-pool-views-in-miami-hong-kong-new-york-mexico-and-the-caribbean/travel</link>
+            <guid isPermaLink="false">582eeaac-b8fd-4db4-b815-edf448c3b9d2</guid>
+            <pubDate>Wed, 20 Jul 2016 02:03:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
