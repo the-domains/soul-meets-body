@@ -29,4 +29,8 @@ navigation:
     url: 'http://www.soulmeetsbody.biz/for-the-athlete'
     name: For the athlete
     type: external
+  - id: 'http://www.soulmeetsbody.biz/Treatments'
+    url: 'http://www.soulmeetsbody.biz/Treatments'
+    name: Treatments
+    type: external
 title: massage & bodywork
